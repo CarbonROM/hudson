@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher DF6371FD 1563980777 -0300\npushee ssh://review.carbonrom.org:29418/CarbonROM/hudson.git\nnonce 1563980777-6A03BB8A27AEB22D9C76193D80FD4CBB108DD1B7\n\n0000000000000000000000000000000000000000 93b7222733164b1722f7b66c4ad2d22eacf41cf9 refs/for/master\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEtIra/48LQyVKBN0XaH/CI99jcf0FAl04c+kACgkQaH/CI99j\ncf2p6Af/cyXeCMFoznyw1FHKh/BNLXSDLkPev0iMx5QrPNkS7Xq7DrpUCOzQFrKr\nGEEbhivXMpn648vIksmo9DDgzM1RzVi2gNT4Ykso8/GJVLifdEkg1owXzTxzHRKw\ng7V+aUWcOyqsXLT+9cRfHfbKBLrs5tG/C0AFUO65wMkuogNKbRBrrrV3jaywUSjX\nSkWK+d+sEVAyRwvkWhbAKFJw8QfR5IaiDEUUaPnBL5rUmDZxXaAdZrmi+pmUC152\nD1+wEME6Fk95KvivVnpyElgz+VV0nXDggxa/bs7au7celbD/jOItYRhDwPfR+iW8\nN8Cd6aYPfGWXzm0xOJ+cxUU26vPP9w\u003d\u003d\n\u003dDIeA\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
