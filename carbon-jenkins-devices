@@ -13,15 +13,15 @@ i9100 userdebug WEEKLY Opal
 kenzo user RELEASE Noct
 land user RELEASE Noct
 mako user WEEKLY Opal
-#maple user RELEASE Noct
+maple user WEEKLY Opal
 mata user WEEKLY Opal
 mido user WEEKLY Opal
 oneplus2 user RELEASE Noct
 oneplus3 user WEEKLY Opal
-#poplar user RELEASE Noct
+poplar user WEEKLY Opal
 potter user WEEKLY Opal
 shamu user WEEKLY Opal
-sirius user RELEASE Noct
+sirius user WEEKLY Opal
 star2lte userdebug RELEASE Noct
 starlte userdebug RELEASE Noct
 taimen user WEEKLY Opal
@@ -29,5 +29,5 @@ tissot user RELEASE Noct
 whyred user WEEKLY Opal
 x2 user RELEASE Noct
 z2_plus user WEEKLY Opal
-z3 user RELEASE Noct
-z3c user RELEASE Noct
+z3 user WEEKLY Opal
+z3c user WEEKLY Opal
