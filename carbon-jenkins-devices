@@ -17,14 +17,14 @@ kenzo user RELEASE Noct
 land user RELEASE Noct
 lavender user WEEKLY Pax
 mako user WEEKLY Pax
-maple user RELEASE Opal
+maple user WEEKLY Pax
 mata user WEEKLY Pax
 mido user RELEASE Opal
 onclite user WEEKLY Pax
 oneplus2 user RELEASE Noct
 oneplus3 user RELEASE Opal
 phoenix user WEEKLY Pax
-poplar user RELEASE Opal
+poplar user WEEKLY Pax
 potter user RELEASE Opal
 shamu user WEEKLY Pax
 star2lte userdebug RELEASE Noct
@@ -36,5 +36,5 @@ wayne user WEEKLY Pax
 whyred user WEEKLY Pax
 x2 user RELEASE Noct
 z2_plus user RELEASE Opal
-z3 user RELEASE Noct
-z3c user RELEASE Noct
+z3 user WEEKLY Pax
+z3c user WEEKLY Pax
