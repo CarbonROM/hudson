@@ -16,6 +16,24 @@
       "revId": "e8d5ee7647053b3f5da613011c2ef3289a0e23fd",
       "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "049eff4e_7803025f",
+        "filename": "carbon-jenkins-devices",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2020-06-10T14:41:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "26f50ad6_5d24d044",
+      "revId": "e8d5ee7647053b3f5da613011c2ef3289a0e23fd",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": false
     }
   ]
 }
