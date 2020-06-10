@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "26f50ad6_5d24d044",
+        "filename": "carbon-jenkins-devices",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 236
+      },
+      "writtenOn": "2020-06-10T04:33:41Z",
+      "side": 1,
+      "message": "remove noct release",
+      "revId": "e8d5ee7647053b3f5da613011c2ef3289a0e23fd",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    }
+  ]
+}
