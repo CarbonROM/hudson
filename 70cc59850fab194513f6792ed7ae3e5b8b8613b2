@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a411deb2_fd26bcc3",
+        "filename": "carbon-jenkins-devices",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 236
+      },
+      "writtenOn": "2020-11-18T08:32:37Z",
+      "side": 1,
+      "message": "Pax is still \u0027WEEKLY\u0027 not RELEASE",
+      "revId": "70cc59850fab194513f6792ed7ae3e5b8b8613b2",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    }
+  ]
+}
