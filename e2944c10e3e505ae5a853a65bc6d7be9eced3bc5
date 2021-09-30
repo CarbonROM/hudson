@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5bab790_2d4eaf4b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 258
+      },
+      "writtenOn": "2021-09-30T10:07:40Z",
+      "side": 1,
+      "message": "Commencing final test build",
+      "revId": "e2944c10e3e505ae5a853a65bc6d7be9eced3bc5",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
+    }
+  ]
+}
