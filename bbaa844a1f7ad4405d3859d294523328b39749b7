@@ -16,6 +16,24 @@
       "message": "WFD doesn\u0027t work",
       "revId": "bbaa844a1f7ad4405d3859d294523328b39749b7",
       "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a9eb51d8_471fd784",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 273
+      },
+      "writtenOn": "2022-03-09T23:53:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a8ce2494_1bcf5bab",
+      "revId": "bbaa844a1f7ad4405d3859d294523328b39749b7",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
     }
   ]
 }
