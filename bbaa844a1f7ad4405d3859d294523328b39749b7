@@ -34,6 +34,23 @@
       "parentUuid": "a8ce2494_1bcf5bab",
       "revId": "bbaa844a1f7ad4405d3859d294523328b39749b7",
       "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f48d65aa_c8789c86",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 273
+      },
+      "writtenOn": "2022-03-09T23:54:11Z",
+      "side": 1,
+      "message": "FM-Radio doesn\u0027t work with Enforcing SELinux.",
+      "revId": "bbaa844a1f7ad4405d3859d294523328b39749b7",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
     }
   ]
 }
