@@ -68,6 +68,24 @@
       "message": "FM-Radio works",
       "revId": "bbaa844a1f7ad4405d3859d294523328b39749b7",
       "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af891b12_bef033f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 273
+      },
+      "writtenOn": "2022-03-10T19:36:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f48d65aa_c8789c86",
+      "revId": "bbaa844a1f7ad4405d3859d294523328b39749b7",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081"
     }
   ]
 }
